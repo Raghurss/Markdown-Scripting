@@ -1,0 +1,53 @@
+# Heading 1 {style=text-align:center}
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+Hey! this readme file is all about this repository and its description
+
+[Github](https://www.github.com)
+
+_Hey this sentence is in italic_
+
+**Hey this sentence is in bold**
+
+~~Hey this sentence gets striked through~~
+
+![alt text|400*300| 5%](Dharavi.jpg) 
+
+|Name|Email|Phone|
+|----|-----|-----|
+|Alex Perry|aperry@gmail.com|+91-7189570103|
+
+> So this is a quote basically 
+> Never Give Up!
+
+
+'forEach()' this single quotes are basically to write code
+
+'''C++
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		return 0;
+	}
+'''
+
+1. Ordered List Item 1
+2. Ordered List Item 2
+3. Ordered List Item 3
+	* Unordered Sub List Item 1
+	* Unordered Sub List Item 2
+* Unordered Item 1
+* Unordered Item 2
+
+Some text to display
+---
+Some other text to display
+***
+Notice that the first line is thin whereas the second line is thicker
+
+
